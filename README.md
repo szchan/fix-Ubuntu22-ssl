@@ -3,4 +3,6 @@
 fix ssl problem in ubuntu 22.04
 
 ---
-##installation##
+# installation
+1. sudo chmod +x ./install.sh
+2. sudo sh -c ./install.sh
